@@ -1,14 +1,14 @@
 # MMSP 2026 個人作業（MP1–MP5）
 
-![mp-ci](https://github.com/OWNER/REPO/actions/workflows/mp-ci.yml/badge.svg)
+![mp-ci](https://github.com/p3n-9u1n/mmsp2026-hw-711581117/actions/workflows/mp-ci.yml/badge.svg)
 
 <!-- 把上一行的 OWNER/REPO 換成你的 GitHub 帳號與 repo 名稱，徽章就會顯示最新 CI 結果 -->
 
 | 欄位 | 內容 |
 |---|---|
-| 姓名 | |
-| 學號 | |
-| 系級 | |
+| 姓名 |郭宸瑋|
+| 學號 |711581117|
+| 系級 |通訊碩一|
 
 ## 進度
 
